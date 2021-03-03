@@ -1,7 +1,7 @@
 ### Hello I'm <a href="https://dougrudolph.com">doug</a> 👋
 
-Hi, I wrote code with my voice! Former hackNY fellow and former backend engineer at BuzzFeed 
+Former <a href="https://hackny.org/">hackNY fellow</a> and former back-end engineer at BuzzFeed 
 
-- 👨‍🔬  I'm currently working on <a href="https://github.com/11/iosboy">iOSBoy</a>
-- 😬  I'm currently looking for a Rust mentor 
-- 📖  Read my blog <a href="https://dougrudolph.com">here</a>
+- First engineer <a href="https://interseller.io">@interseller.io</a> and currently help building the team
+- Working on creating WebGL projects in my free time
+- User of Rust 🦀 , Haskell ƛ, TypeScript, and Python 🐍
